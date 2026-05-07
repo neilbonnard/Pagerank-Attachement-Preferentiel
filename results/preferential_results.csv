@@ -1,0 +1,5 @@
+graph,alpha,iterations,time_seconds
+preferential-2000-5,0.5,17,676.6528208255768
+preferential-2000-5,0.7,30,690.0674839019775
+preferential-2000-5,0.85,64,682.6162686347961
+preferential-2000-5,0.9,96,668.3824384212494
